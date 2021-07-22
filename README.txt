@@ -1,3 +1,5 @@
+NEED TO UPDATE THIS!! DIDNT USE BCUBED METHOD CORRECTLY
+
 K Means and K Medians algorithms
 
 Libaries used:
